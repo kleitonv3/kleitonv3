@@ -11,8 +11,8 @@
 
 <div style="margin-top:20px" align="center">
   <a href="https://github.com/kleitonv3">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kleitonv3&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&title_color=000&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleitonv3&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&title_color=000&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kleitonv3&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&title_color=000&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" style="max-width: 57%"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleitonv3&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&title_color=000&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" style="max-width: 42%"/>
   </a>
 </div>
 
