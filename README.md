@@ -4,7 +4,7 @@
 
 **I am currently learning front-end and looking for a job 👀**
 
-- 🔭 I’m currently working on Laravel projects and learning Vue.js
+- 🔭 Currently working on Laravel projects and learning Vue.js
 - 💖 I’m passionate about technology, botany and astronomy
 - 😄 Pronouns: (He/Him/Ele/Dele)
 - ⚡ Fun fact: My favorite color is purple
