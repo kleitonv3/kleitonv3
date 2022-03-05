@@ -2,10 +2,10 @@
 
 **Hello guys! I live in Brazil, and I am a student of Computer Science.**
 
-**I am currently learning front-end and looking for a job 👀**
+**I am currently in love with front-end**
 
-- 🔭 Currently working on Laravel projects and learning Vue.js
-- 💖 I’m passionate about technology, botany and astronomy
+- 🔭 Working on Laravel projects and learning Vue.js
+- 💖 Passionate about technology, botany and astronomy
 - 😄 Pronouns: (He/Him/Ele/Dele)
 - ⚡ Fun fact: My favorite color is purple
 
@@ -20,7 +20,9 @@
   <img align="center" alt="Kleiton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kleiton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kleiton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Kleiton-Vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Kleiton-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Kleiton-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Kleiton-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
   <img align="center" alt="Kleiton-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Kleiton-Vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
